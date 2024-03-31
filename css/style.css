@@ -1300,9 +1300,6 @@ audio::-webkit-media-controls-time-remaining-display {
   height: 0;
   padding-bottom: 56.25%
 }
-.important-indicators__pagination {
-  display: none
-}
 .important-indicators__buttons {
   position: absolute;
   bottom: 0;
@@ -2483,9 +2480,6 @@ audio::-webkit-media-controls-time-remaining-display {
 .reviews__wrapper {
   padding-bottom: 3.75rem
 }
-.reviews__pagination {
-  display: none
-}
 .reviews__buttons {
   position: absolute;
   bottom: 0;
@@ -3593,12 +3587,6 @@ button.swiper-pagination-bullet {
   .how-cooperate__body {
     gap: 1.875rem
   }
-  .important-indicators__pagination {
-    display: block
-  }
-  .important-indicators__button {
-    display: none
-  }
   .rate-operators__top {
     flex-direction: column
   }
@@ -3669,12 +3657,6 @@ button.swiper-pagination-bullet {
     display: block
   }
   .our-cases__button {
-    display: none
-  }
-  .reviews__pagination {
-    display: block
-  }
-  .reviews__button {
     display: none
   }
 }
